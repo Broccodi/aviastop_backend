@@ -1,0 +1,2190 @@
+{
+  "month": {
+    "2019-12-31": {
+      "value": 10980.0,
+      "signature": "3112W944933112W98126_10980",
+      "search_id": "ea811c75-b44c-4b17-87d5-22ca49b2e304",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300002",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T17:42:22",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1577801700,
+            "delay": 0,
+            "arrival": 1577805300,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1577810400,
+            "delay": 85,
+            "arrival": 1577820600,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 495,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-31",
+      "airline": "W9"
+    },
+    "2019-12-28": {
+      "value": 13212.0,
+      "signature": "2812DP8452912FR13002912FR164_13212",
+      "search_id": "ff2a53f5-2886-4243-921d-bab6b43f3ca3",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "34300019",
+      "number_of_changes": 2,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T20:49:50",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "845",
+            "duration": 165,
+            "destination": "TXL",
+            "departure": 1577539200,
+            "delay": 0,
+            "arrival": 1577541900,
+            "airline": "DP",
+            "aircraft": "738"
+          },
+          {
+            "origin": "SXF",
+            "number": "164",
+            "duration": 90,
+            "destination": "BRU",
+            "departure": 1577602800,
+            "delay": 1015,
+            "arrival": 1577608200,
+            "airline": "FR",
+            "aircraft": "73H"
+          },
+          {
+            "origin": "CRL",
+            "number": "1300",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1577634600,
+            "delay": 440,
+            "arrival": 1577641200,
+            "airline": "FR",
+            "aircraft": "73H"
+          }
+        ]
+      ],
+      "duration": 1880,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-28",
+      "airline": "FR"
+    },
+    "2019-12-27": {
+      "value": 11497.0,
+      "signature": "2712W944932712W98126_11497",
+      "search_id": "11e6e9a2-dcab-11e9-a644-f212f40e0524",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300000",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T20:05:10",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1577456100,
+            "delay": 0,
+            "arrival": 1577459700,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1577464800,
+            "delay": 85,
+            "arrival": 1577475000,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 495,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-27",
+      "airline": "W9"
+    },
+    "2019-12-26": {
+      "value": 9799.0,
+      "signature": "2612FR76802612W981262712EI890_9799",
+      "search_id": "f8990fcb-6141-466a-a8b0-d303fc2404e6",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300142",
+      "number_of_changes": 2,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T18:30:53",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1577369700,
+            "delay": 0,
+            "arrival": 1577373300,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "7680",
+            "duration": 90,
+            "destination": "ORK",
+            "departure": 1577385000,
+            "delay": 195,
+            "arrival": 1577390400,
+            "airline": "FR",
+            "aircraft": "73H"
+          },
+          {
+            "origin": "ORK",
+            "number": "890",
+            "duration": 145,
+            "destination": "LIS",
+            "departure": 1577466900,
+            "delay": 1275,
+            "arrival": 1577475600,
+            "airline": "EI",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 1945,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-26",
+      "airline": "W9"
+    },
+    "2019-12-24": {
+      "value": 6505.0,
+      "signature": "2412BT4272412BT675_6505",
+      "search_id": "0f52b07b-4283-4761-a1e4-2de847254a1e",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "1100161",
+      "number_of_changes": 1,
+      "gate": "Trip.ru",
+      "found_at": "2019-09-21T16:39:58",
+      "flights": [
+        [
+          {
+            "origin": "SVO",
+            "number": "427",
+            "duration": 105,
+            "destination": "RIX",
+            "departure": 1577166000,
+            "delay": 0,
+            "arrival": 1577168700,
+            "airline": "BT",
+            "aircraft": "735"
+          },
+          {
+            "origin": "RIX",
+            "number": "675",
+            "duration": 280,
+            "destination": "LIS",
+            "departure": 1577191500,
+            "delay": 380,
+            "arrival": 1577201100,
+            "airline": "BT",
+            "aircraft": "223"
+          }
+        ]
+      ],
+      "duration": 765,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-24",
+      "airline": "BT"
+    },
+    "2019-12-23": {
+      "value": 6683.0,
+      "signature": "2312BT4232412BT675_6683",
+      "search_id": "a7c10c65-dcc3-11e9-bdde-baa98b41ace8",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "",
+      "number_of_changes": 1,
+      "gate": "Trip.ru",
+      "found_at": "2019-09-21T23:01:14",
+      "flights": [
+        [
+          {
+            "origin": "SVO",
+            "number": "423",
+            "duration": 105,
+            "destination": "RIX",
+            "departure": 1577137200,
+            "delay": 0,
+            "arrival": 1577139900,
+            "airline": "BT",
+            "aircraft": "223"
+          },
+          {
+            "origin": "RIX",
+            "number": "675",
+            "duration": 280,
+            "destination": "LIS",
+            "departure": 1577191500,
+            "delay": 860,
+            "arrival": 1577201100,
+            "airline": "BT",
+            "aircraft": "223"
+          }
+        ]
+      ],
+      "duration": 1245,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-23",
+      "airline": "BT"
+    },
+    "2019-12-20": {
+      "value": 8861.0,
+      "signature": "2012W623932012W62490_8861",
+      "search_id": "478d6f03-1df3-4e09-83a7-e99b97f69e24",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300068",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T22:36:20",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "2490",
+            "duration": 160,
+            "destination": "BUD",
+            "departure": 1576839900,
+            "delay": 0,
+            "arrival": 1576842300,
+            "airline": "W6",
+            "aircraft": "320"
+          },
+          {
+            "origin": "BUD",
+            "number": "2393",
+            "duration": 235,
+            "destination": "LIS",
+            "departure": 1576857000,
+            "delay": 245,
+            "arrival": 1576867500,
+            "airline": "W6",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 640,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-20",
+      "airline": "W6"
+    },
+    "2019-12-19": {
+      "value": 6000.0,
+      "signature": "1912DP8031912FR58312012FR2181_6000",
+      "search_id": "7f58c871-e66e-426f-bc7b-483564895b6b",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300085",
+      "number_of_changes": 2,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T19:05:31",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "803",
+            "duration": 215,
+            "destination": "BGY",
+            "departure": 1576766400,
+            "delay": 0,
+            "arrival": 1576772100,
+            "airline": "DP",
+            "aircraft": "738"
+          },
+          {
+            "origin": "BGY",
+            "number": "5831",
+            "duration": 100,
+            "destination": "BOD",
+            "departure": 1576784700,
+            "delay": 210,
+            "arrival": 1576790700,
+            "airline": "FR",
+            "aircraft": "73H"
+          },
+          {
+            "origin": "BOD",
+            "number": "2181",
+            "duration": 110,
+            "destination": "LIS",
+            "departure": 1576835400,
+            "delay": 745,
+            "arrival": 1576838400,
+            "airline": "FR",
+            "aircraft": "73H"
+          }
+        ]
+      ],
+      "duration": 1380,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-19",
+      "airline": "DP"
+    },
+    "2019-12-13": {
+      "value": 4287.0,
+      "signature": "1312W944931312W98126_4287",
+      "search_id": "80546c18-dc9e-11e9-8891-dae1d83fdc87",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300000",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T18:35:31",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1576246500,
+            "delay": 0,
+            "arrival": 1576250100,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1576255200,
+            "delay": 85,
+            "arrival": 1576265400,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 495,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-13",
+      "airline": "W9"
+    },
+    "2019-12-12": {
+      "value": 3245.0,
+      "signature": "1212W944931212W98126_3245",
+      "search_id": "5583f87f-78c2-4d67-b8c3-83b64b76a73e",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "2000004",
+      "number_of_changes": 1,
+      "gate": "OneTwoTrip",
+      "found_at": "2019-09-21T18:23:17",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1576160100,
+            "delay": 0,
+            "arrival": 1576163700,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1576170300,
+            "delay": 110,
+            "arrival": 1576180500,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 520,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-12",
+      "airline": "W9"
+    },
+    "2019-12-10": {
+      "value": 3280.0,
+      "signature": "1012W944931012W98126_3280",
+      "search_id": "3f65bf16-dc84-11e9-a644-f212f40e0524",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "34300109",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T15:27:15",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1575987300,
+            "delay": 0,
+            "arrival": 1575990900,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1575996000,
+            "delay": 85,
+            "arrival": 1576006200,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 495,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-10",
+      "airline": "W9"
+    },
+    "2019-12-09": {
+      "value": 3280.0,
+      "signature": "0912W981261012FR1884_3280",
+      "search_id": "963c87e0-dc96-11e9-9c7c-f2cb25a12647",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300000",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T17:38:32",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1575900900,
+            "delay": 0,
+            "arrival": 1575904500,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "STN",
+            "number": "1884",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1575970500,
+            "delay": 1100,
+            "arrival": 1575980700,
+            "airline": "FR",
+            "aircraft": "73H"
+          }
+        ]
+      ],
+      "duration": 1510,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-09",
+      "airline": "W9"
+    },
+    "2019-12-08": {
+      "value": 4273.0,
+      "signature": "0812W981260912FR1884_4273",
+      "search_id": "db5f6196-dcbb-11e9-bdde-baa98b41ace8",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "34300103",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T22:05:17",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1575814500,
+            "delay": 0,
+            "arrival": 1575818100,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "STN",
+            "number": "1884",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1575884100,
+            "delay": 1100,
+            "arrival": 1575894300,
+            "airline": "FR",
+            "aircraft": "73H"
+          }
+        ]
+      ],
+      "duration": 1510,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-08",
+      "airline": "W9"
+    },
+    "2019-12-07": {
+      "value": 3280.0,
+      "signature": "0712W944930712W98126_3280",
+      "search_id": "0beb40f2-dca8-11e9-a25f-eea2b935c3ff",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300000",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T19:43:58",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1575728100,
+            "delay": 0,
+            "arrival": 1575731700,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1575736800,
+            "delay": 85,
+            "arrival": 1575747000,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 495,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-07",
+      "airline": "W9"
+    },
+    "2019-12-06": {
+      "value": 4104.0,
+      "signature": "0612W944930612W98126_4104",
+      "search_id": "efba87a3-dc9b-11e9-a644-f212f40e0524",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "34300082",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T18:17:10",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1575641700,
+            "delay": 0,
+            "arrival": 1575645300,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1575650400,
+            "delay": 85,
+            "arrival": 1575660600,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 495,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-06",
+      "airline": "W9"
+    },
+    "2019-12-05": {
+      "value": 3245.0,
+      "signature": "0512W944930512W98126_3245",
+      "search_id": "5084184f-3883-43eb-8dcd-0711047f6986",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "2000072",
+      "number_of_changes": 1,
+      "gate": "OneTwoTrip",
+      "found_at": "2019-09-21T19:34:58",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1575555300,
+            "delay": 0,
+            "arrival": 1575558900,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1575565500,
+            "delay": 110,
+            "arrival": 1575575700,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 520,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-05",
+      "airline": "W9"
+    },
+    "2019-12-04": {
+      "value": 3482.0,
+      "signature": "0412W981260512FR1884_3482",
+      "search_id": "b74c365b-dc8f-11e9-a644-f212f40e0524",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "20300000",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T16:49:20",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1575468900,
+            "delay": 0,
+            "arrival": 1575472500,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "STN",
+            "number": "1884",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1575538500,
+            "delay": 1100,
+            "arrival": 1575548700,
+            "airline": "FR",
+            "aircraft": "73H"
+          }
+        ]
+      ],
+      "duration": 1510,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-04",
+      "airline": "W9"
+    },
+    "2019-12-03": {
+      "value": 2876.0,
+      "signature": "0312W944930312W98126_2876",
+      "search_id": "85a5762f-dcb8-11e9-981e-fea8d104bc51",
+      "origin_name": "Москва",
+      "origin": "MOW",
+      "order_url_id": "34300011",
+      "number_of_changes": 1,
+      "gate": "Kiwi.com",
+      "found_at": "2019-09-21T21:41:25",
+      "flights": [
+        [
+          {
+            "origin": "VKO",
+            "number": "8126",
+            "duration": 240,
+            "destination": "LTN",
+            "departure": 1575382500,
+            "delay": 0,
+            "arrival": 1575386100,
+            "airline": "W9",
+            "aircraft": "321"
+          },
+          {
+            "origin": "LTN",
+            "number": "4493",
+            "duration": 170,
+            "destination": "LIS",
+            "departure": 1575391200,
+            "delay": 85,
+            "arrival": 1575401400,
+            "airline": "W9",
+            "aircraft": "320"
+          }
+        ]
+      ],
+      "duration": 495,
+      "direct": false,
+      "destination_name": "Лиссабон",
+      "destination": "LIS",
+      "depart_date": "2019-12-03",
+      "airline": "W9"
+    }
+  },
+  "errors": {},
+  "currency": {
+    "AUD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.022954575191154222,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CZK": {
+      "thousands_separator": " ",
+      "symbol_first": false,
+      "symbol": "Kč",
+      "rate": 0.367286523890152,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "IDR": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "Rp",
+      "rate": 217.3913043478261,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "VEF": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "Bs",
+      "rate": 3333.3333333333335,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "UAH": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "₴",
+      "rate": 0.37423048855790286,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "KMF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Fr",
+      "rate": 6.968641114982579,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "NGN": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₦",
+      "rate": 5.583472920156337,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "NAD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 0.23182492581602374,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "AWG": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ƒ",
+      "rate": 0.02783700874638815,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SHP": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "£",
+      "rate": 0.012583998187904262,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "HUF": {
+      "thousands_separator": " ",
+      "symbol_first": false,
+      "symbol": "Ft",
+      "rate": 4.773679838840569,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "INR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₹",
+      "rate": 1.0976382118595418,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "GYD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 3.228931223764934,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "DKK": {
+      "thousands_separator": ".",
+      "symbol_first": false,
+      "symbol": "kr.",
+      "rate": 0.10607986116267769,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "LSL": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "L",
+      "rate": 0.23182492581602374,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "JMD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 2.087246921310791,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "NOK": {
+      "thousands_separator": ".",
+      "symbol_first": false,
+      "symbol": "kr",
+      "rate": 0.14091612390472943,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "CVE": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 1.5610365282547614,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BDT": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "৳",
+      "rate": 1.307531380753138,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "LAK": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "₭",
+      "rate": 136.986301369863,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "KHR": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "៛",
+      "rate": 63.291139240506325,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SRD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 0.11534025374855825,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "PGK": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "K",
+      "rate": 0.0522340503327309,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MAD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "د.م.",
+      "rate": 0.14992728526664567,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "PYG": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₲",
+      "rate": 99.00990099009901,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "QAR": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ر.ق",
+      "rate": 0.05630884274066399,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MOP": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "P",
+      "rate": 0.12489228040814797,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BOB": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "Bs.",
+      "rate": 0.10697475395806588,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "PHP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₱",
+      "rate": 0.8025038118931065,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SDG": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "£",
+      "rate": 0.6978854072161351,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SEK": {
+      "thousands_separator": " ",
+      "symbol_first": false,
+      "symbol": "kr",
+      "rate": 0.15156107911488328,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "KZT": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "₸",
+      "rate": 6.020650832354978,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ANG": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "ƒ",
+      "rate": 0.02731397136949521,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "CLF": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "UF",
+      "rate": 0.0003709999985902,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "TMT": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "T",
+      "rate": 0.05425700457929118,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "TJS": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ЅМ",
+      "rate": 0.15042932529439018,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CUC": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 0.015465009642433513,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BRL": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "R$",
+      "rate": 0.06474838776514465,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "PAB": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "B/.",
+      "rate": 0.015465009642433513,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "AOA": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Kz",
+      "rate": 5.76036866359447,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "UGX": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "USh",
+      "rate": 57.14285714285714,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "NPR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₨",
+      "rate": 1.7546938059308652,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MRO": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "UM",
+      "rate": 5.521811154058531,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MXN": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.30453451898772727,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "KWD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "د.ك",
+      "rate": 0.004705999726110816,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SAR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "ر.س",
+      "rate": 0.058020121378093925,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "PEN": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "S/.",
+      "rate": 0.05229605844607492,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "PKR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₨",
+      "rate": 2.42600679281902,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "RUB": {
+      "thousands_separator": " ",
+      "symbol_first": false,
+      "symbol": "₽",
+      "rate": 1.0,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "AMD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "դր.",
+      "rate": 7.385633465782361,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MDL": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "L",
+      "rate": 0.2755542084016478,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BTC": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₿",
+      "rate": 0.000001892433999967635,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MZN": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "MTn",
+      "rate": 0.9581297307655456,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "XOF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Fr",
+      "rate": 9.267840593141798,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "KRW": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₩",
+      "rate": 18.595483157141132,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CDF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Fr",
+      "rate": 25.77319587628866,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "VND": {
+      "thousands_separator": ".",
+      "symbol_first": false,
+      "symbol": "₫",
+      "rate": 357.14285714285717,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "DJF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Fdj",
+      "rate": 2.7525461051472613,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "FKP": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "£",
+      "rate": 0.012583998187904262,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BIF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Fr",
+      "rate": 28.73563218390805,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "FJD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 0.03398101141082363,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MYR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "RM",
+      "rate": 0.06484495571089526,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BBD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.03093102381688834,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CNY": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "¥",
+      "rate": 0.11053070211312596,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "GMD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "D",
+      "rate": 0.7760962359332557,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SGD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.02144979140077863,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ZMW": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ZK",
+      "rate": 0.20375313270441534,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MWK": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "MK",
+      "rate": 11.325028312570781,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BGN": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "лв.",
+      "rate": 0.02778673128007914,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "GEL": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ლ",
+      "rate": 0.04577706569008927,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "TTD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 0.10485147788158074,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "LVL": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "Ls",
+      "rate": 0.009164237486962268,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "XCD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.04179606030335581,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "EUR": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "€",
+      "rate": 0.014221494081725237,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "UYU": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.569313976658127,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "GIP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "£",
+      "rate": 0.012583998187904262,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CLP": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 11.235955056179776,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "TWD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.4801920768307323,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SBD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 0.12746160219233954,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SZL": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "E",
+      "rate": 0.23182492581602374,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "IRR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "﷼",
+      "rate": 666.6666666666666,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "LRD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "$",
+      "rate": 3.234152652005175,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CRC": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "₡",
+      "rate": 9.00900900900901,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "XDR": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "SDR",
+      "rate": 0.011375865418961748,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SYP": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "£S",
+      "rate": 7.980845969672786,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "DOP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.8028259473346179,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BWP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "P",
+      "rate": 0.17076794344165713,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "KPW": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "₩",
+      "rate": 13.927576601671309,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ZMK": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ZK",
+      "rate": 85.71918395336877,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BZD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.03117304155366439,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "TRY": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "₺",
+      "rate": 0.08815077308227992,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "KES": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "KSh",
+      "rate": 1.606941989394183,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ALL": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "L",
+      "rate": 1.7220595832615808,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "JOD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "د.ا",
+      "rate": 0.010964996441858655,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "HTG": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "G",
+      "rate": 1.4869888475836432,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "TND": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "د.ت",
+      "rate": 0.0443750221875111,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ZAR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "R",
+      "rate": 0.23380382456296223,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "XPD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "oz t",
+      "rate": 0.00000918999999854798,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SLL": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Le",
+      "rate": 113.63636363636363,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BMD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.015465009642433513,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CHF": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "CHF",
+      "rate": 0.015417062371267528,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SOS": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Sh",
+      "rate": 8.984725965858042,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "KGS": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "som",
+      "rate": 1.0855134967320617,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "LTL": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Lt",
+      "rate": 0.04502290675449855,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ERN": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Nfk",
+      "rate": 0.23197550338684234,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BAM": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "КМ",
+      "rate": 0.02764997345602548,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ARS": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.8866034222892101,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "STD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Db",
+      "rate": 333.3333333333333,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "RWF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "FRw",
+      "rate": 14.265335235378032,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BYR": {
+      "thousands_separator": " ",
+      "symbol_first": false,
+      "symbol": "Br",
+      "rate": 320.30749519538756,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "RSD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "РСД",
+      "rate": 1.6605778811026237,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ZWL": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 4.9800796812749,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "GBP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "£",
+      "rate": 0.012627458408308869,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BTN": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Nu.",
+      "rate": 1.0964912280701753,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "UZS": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "",
+      "rate": 146.4707864016522,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MMK": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "K",
+      "rate": 23.696682464454977,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BSD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.015465009642433513,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "JPY": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "¥",
+      "rate": 1.6748258599812083,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "EGP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "ج.م",
+      "rate": 0.25225134323840276,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "XAG": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "oz t",
+      "rate": 0.000881990002290528,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "LYD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ل.د",
+      "rate": 0.0218060180248545,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "XAU": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "oz t",
+      "rate": 0.00001033000000038221,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "USD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.015524189792534728,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BND": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.020886986780626067,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "XPT": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "oz t",
+      "rate": 0.000016609999990698398,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "PLN": {
+      "thousands_separator": " ",
+      "symbol_first": false,
+      "symbol": "zł",
+      "rate": 0.06230956638772751,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "SSP": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "£",
+      "rate": 2.0145044319097503,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "DZD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "د.ج",
+      "rate": 1.8660197798096658,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "AFN": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "؋",
+      "rate": 1.2109469605231291,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "IQD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ع.د",
+      "rate": 18.41620626151013,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "GHS": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₵",
+      "rate": 0.08495815810713224,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "TOP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "T$",
+      "rate": 0.03600100802822479,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MKD": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "ден",
+      "rate": 0.8718395815170008,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "GNF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Fr",
+      "rate": 142.85714285714286,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "THB": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "฿",
+      "rate": 0.47379891973846305,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CNH": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "¥",
+      "rate": 0.11037040307271202,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "TZS": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "Sh",
+      "rate": 35.587188612099645,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "XPF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Fr",
+      "rate": 1.6866250632484399,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "JEP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "£",
+      "rate": 0.012583998187904262,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "AED": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "د.إ",
+      "rate": 0.056803012831800594,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "SVC": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₡",
+      "rate": 0.1353234908047688,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "RON": {
+      "thousands_separator": ".",
+      "symbol_first": false,
+      "symbol": "Lei",
+      "rate": 0.06743224744937523,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "CUP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.39823185058340965,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "LBP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "ل.ل",
+      "rate": 23.364485981308412,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "BHD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "ب.د",
+      "rate": 0.005829000443004034,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "GGP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "£",
+      "rate": 0.012583998187904262,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "VUV": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "Vt",
+      "rate": 1.8034265103697025,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MGA": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "Ar",
+      "rate": 57.80346820809249,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ISK": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "kr",
+      "rate": 1.904036557501904,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "COP": {
+      "thousands_separator": ".",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 53.191489361702125,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "BYN": {
+      "thousands_separator": " ",
+      "symbol_first": false,
+      "symbol": "Br",
+      "rate": 0.03219720141925264,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "SCR": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "₨",
+      "rate": 0.21189134211976096,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ILS": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₪",
+      "rate": 0.0538540662512723,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "ETB": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Br",
+      "rate": 0.4566210045662101,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "CAD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.020578884007120296,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "AZN": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₼",
+      "rate": 0.02633678959802158,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "NIO": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "C$",
+      "rate": 0.519777535214928,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "KYD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.01288799303017337,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MNT": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "₮",
+      "rate": 41.1522633744856,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "HNL": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "L",
+      "rate": 0.38153376573826786,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "WST": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "T",
+      "rate": 0.040977056945816034,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "YER": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "﷼",
+      "rate": 3.8714672861014328,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "HKD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.12172824898782962,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "IMP": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "£",
+      "rate": 0.012583998187904262,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "NZD": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "$",
+      "rate": 0.02456899834650641,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "GTQ": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "Q",
+      "rate": 0.11954429713930496,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "HRK": {
+      "thousands_separator": ".",
+      "symbol_first": false,
+      "symbol": "kn",
+      "rate": 0.10473507263377287,
+      "exponent": 0,
+      "decimal_mark": ","
+    },
+    "OMR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "ر.ع.",
+      "rate": 0.005955000443647533,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MUR": {
+      "thousands_separator": ",",
+      "symbol_first": true,
+      "symbol": "₨",
+      "rate": 0.5644933672029353,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "MVR": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "MVR",
+      "rate": 0.23832221163012393,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "LKR": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "₨",
+      "rate": 2.8129395218002813,
+      "exponent": 0,
+      "decimal_mark": "."
+    },
+    "XAF": {
+      "thousands_separator": ",",
+      "symbol_first": false,
+      "symbol": "Fr",
+      "rate": 9.267840593141798,
+      "exponent": 0,
+      "decimal_mark": "."
+    }
+  }
+}

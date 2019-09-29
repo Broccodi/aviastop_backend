@@ -1,0 +1,23 @@
+{
+  "tickets": [
+    [
+      value
+      {
+        "origin": "VKO",
+        "departure": 1577801700,
+        "delay": 0,
+        "arrival": 1577805300
+      },
+      {
+        "origin": "LTN",
+        "departure": 1577810400,
+        "delay": 85,
+        "arrival": 1577820600
+      },
+      {
+
+      }
+    ],
+    []
+  ]
+}
